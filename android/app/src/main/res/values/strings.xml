@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nathürlich</string>
+    <color name="splashscreen_bg">#424242</color>
+    <color name="app_bg">#424242</color>
+</resources>

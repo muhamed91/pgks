@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94296128504",
+    "firebase_url": "https://pgksapp.firebaseio.com",
+    "project_id": "pgksapp",
+    "storage_bucket": "pgksapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94296128504:android:fa2afebe93b63e3f89f40d",
+        "android_client_info": {
+          "package_name": "com.kradolfschenenberg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94296128504-nuq69m4rcrseoqlmbatgid7717mnhb5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGuhQkK4wPmZ3qKzJmducDbO4QTxXMYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94296128504-nuq69m4rcrseoqlmbatgid7717mnhb5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

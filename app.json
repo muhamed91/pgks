@@ -1,0 +1,9 @@
+{
+  "name": "KradolfSchenenberg",
+  "displayName": "KradolfSchenenberg",
+  "orientation": "portrait",
+
+  "infoPlist": {
+    "LSApplicationQueriesSchemes": ["tel"]
+  }
+}
